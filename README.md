@@ -1,7 +1,6 @@
 # SuperBidder
-Video Explanation : https://youtu.be/TwoPMVs5Ay8
 
-Asked in Flipkart Machine Coding Round
+
 Problem Statement
 A company SuperBidder has hosted an Online Auction System where any user(seller) can sell an object through an auction.
 Each auction has a lowest bid limit and the highest bid limit.
