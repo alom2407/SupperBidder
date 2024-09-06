@@ -1,7 +1,8 @@
 # SuperBidder
 
 
-Problem Statement
+### Problem Statement
+
 A company SuperBidder has hosted an Online Auction System where any user(seller) can sell an object through an auction.
 Each auction has a lowest bid limit and the highest bid limit.
 Any registered user(buyer) can participate in an auction and bid on the product. Buyers can update this bid amount or withdraw from an auction until the auction is completed.
